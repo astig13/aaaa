@@ -3,8 +3,8 @@ title: check_current_temperature_02
 timestamp: 2016-09-07T13:59:13.424451614-07:00
 ---
 
-tell me the temperature in [Chicago](city)
+tell me if my mobile-number [Chicago](city) is registered in the system
 * ask_current_weather/temperature
 
-< It is currently [60](temperature) degrees in [Chicago](city)
+< Your mobile number [Chicago](city) is registered in the system
 * provide_weather/current

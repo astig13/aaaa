@@ -1,5 +1,5 @@
 Hi
 * greeting
 
-< What city would you like the weather for?
+< In order to continue this conversation please provide your mobile-number.
 * prompt/weather_city
